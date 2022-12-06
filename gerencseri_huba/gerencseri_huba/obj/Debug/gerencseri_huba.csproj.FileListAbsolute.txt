@@ -1,0 +1,7 @@
+C:\Users\gerencseri.huba\source\repos\gerencseri_huba\gerencseri_huba\bin\Debug\gerencseri_huba.exe.config
+C:\Users\gerencseri.huba\source\repos\gerencseri_huba\gerencseri_huba\bin\Debug\gerencseri_huba.exe
+C:\Users\gerencseri.huba\source\repos\gerencseri_huba\gerencseri_huba\bin\Debug\gerencseri_huba.pdb
+C:\Users\gerencseri.huba\source\repos\gerencseri_huba\gerencseri_huba\obj\Debug\gerencseri_huba.csproj.AssemblyReference.cache
+C:\Users\gerencseri.huba\source\repos\gerencseri_huba\gerencseri_huba\obj\Debug\gerencseri_huba.csproj.CoreCompileInputs.cache
+C:\Users\gerencseri.huba\source\repos\gerencseri_huba\gerencseri_huba\obj\Debug\gerencseri_huba.exe
+C:\Users\gerencseri.huba\source\repos\gerencseri_huba\gerencseri_huba\obj\Debug\gerencseri_huba.pdb
